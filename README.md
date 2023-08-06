@@ -15,7 +15,7 @@ Due to the limitations of existing public datasets, we created our own ASL datas
 + 3081 Special Characters (AVG 1500 for each label)
 + 19026 Digits (AVG 1900 for each label)
 + 42051 Alphabet (AVG 1600 for each label)
-+[link]
++[Our Dataset Link]()
 
 
 
